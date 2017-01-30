@@ -1,0 +1,3 @@
+[submodule "docker/test_db"]
+	path = docker/test_db
+	url = https://github.com/shigemk2/test_db.git
